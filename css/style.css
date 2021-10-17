@@ -61,7 +61,7 @@ header{
 
 /*Hero-Section*/
 .hero-sec{
-    background-image: url(/images/background/hero-section-back.webp);
+    background-image: url(images/background/hero-section-back.webp);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
